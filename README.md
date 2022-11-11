@@ -1,3 +1,3 @@
 # test-diagram
 
-![This is an image](http://localhost:3000/hello-world.png?query)
+![This is an image](https://datavirke.dk/logo.svg)
